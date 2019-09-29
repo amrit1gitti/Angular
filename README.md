@@ -1,2 +1,0 @@
-# Angular
-Started learning Angular
